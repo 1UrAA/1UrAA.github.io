@@ -1,5 +1,5 @@
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-optical-sizing: auto;
 }
 
@@ -97,12 +97,12 @@ body {
   padding: 0;
   list-style: none;
 }
-.nav .lompatkeatas {
+.nav .nav-brand {
   font-size: 24px;
   line-height: 32px;
   letter-spacing: 0.1px;
   font-weight: bold;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 .nav .nav-wrapper,
@@ -216,7 +216,7 @@ footer .footer-col .footer-sosmed {
 #jumbotron {
   position: relative;
   height: 100vh;
-  background-color: #184C99;
+  background-color: #184c99;
   overflow: hidden;
 }
 #jumbotron::after {
@@ -258,7 +258,7 @@ footer .footer-col .footer-sosmed {
   line-height: 80px;
   letter-spacing: 0.2px;
   font-weight: bold;
-  color: #FFFFFF;
+  color: #fff;
 }
 #jumbotron .jumbotron-content h4 {
   margin: 0;
